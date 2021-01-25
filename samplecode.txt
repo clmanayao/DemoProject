@@ -8,3 +8,5 @@ print("Mollah")
 
 print("Villarosa")
 print("BSCpE")
+
+print("pogi ako sabi ni mama")
